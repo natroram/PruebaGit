@@ -15,7 +15,10 @@ public class NewClass {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        System.out.println("Hola mundo");
+        int a,b;
+        a = 2;
+        b =10;
         
     }
 }

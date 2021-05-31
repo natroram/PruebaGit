@@ -16,10 +16,15 @@ public class JavaApplication {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World");
+        System.out.println("Hello");
         
         for(int i = 0; i<10; i++){
             System.out.println(i);
+        }
+        int n=0;
+        while(n<10){
+            System.out.println(n);
+            n++;
         }
     }
     
